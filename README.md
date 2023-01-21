@@ -3,13 +3,7 @@ A classifier that can predict whether or not the provided message or SMS is 'SPA
 This classification model has an accuracy score of 97.89% and a Precision score of 1.0 !!!
 
 Project workflow
--Data cleaning
--EDA
--Text pre-processing
--Model building
--Evaluation
--Improvements
--Website
+-Data cleaning -> EDA -> Text pre-processing -> Model building -> Evaluation -> Improvements -> Website
 -- nltk package is used modify the words in terms of verb to focus only on the words and not the different versions of the same word.
 -- Vectorization techniques used for feature extraction were 'Bag of words' and 'TF-IDF'
 -- The best algorithm selected was Multinomial Naive Bayes.
