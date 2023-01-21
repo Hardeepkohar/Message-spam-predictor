@@ -9,12 +9,7 @@ Project workflow
 -- The best algorithm selected was Multinomial Naive Bayes.
 
 The MnB model was tested against various machine learning classifiers----
-- Logistic Regression\
-- Decision Tree Classifier
-- Support vector classifier
-- Random forest classifier
-- K nearest neighbours classifier
-- AdaBoost Classifier
+- Logistic Regression, Decision Tree Classifier, Support vector classifier, Random forest classifier, K nearest neighbours classifier, AdaBoost Classifier
 
 # Screenshots
 ![spa](https://user-images.githubusercontent.com/93179217/213879095-fe18d042-7675-4f63-b2b8-2ff1ebc7b3e6.png)
